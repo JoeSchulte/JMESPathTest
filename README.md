@@ -1,3 +1,2 @@
 # JMESPathTest
-Test JMESPath processing in NuGet packages
-
+Test JMESPath processing in JmesPath.Net NuGet package.
